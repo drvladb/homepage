@@ -31,6 +31,14 @@ github_username:  drvladb
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
+
+
+# Add some matomo analytics
+jekyll_analytics:
+  Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
+    url: matomo.vladb.xyz # Required - url to Matomo installation without trailing /
+    siteId: "1"          # Required - replace with your Matomo site id (Write id as string)
 
 # Exclude from processing.
 # The following items will not be processed, by default.

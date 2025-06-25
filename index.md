@@ -11,7 +11,7 @@ Hi! I am currently a freshman student at Purdue University with an interest in C
 ## Research Interest
 
 ### In CE
-- Field Programmable Gate Appliances (FPGAs)
+- Field-Programmable Gate Array (FPGAs)
 - Robotics (especially control and verification algorithms)
 - "Full-stack" robotics
 - Wireless communication
@@ -73,6 +73,9 @@ Human Languages       | English, Russian (Native), Spanish (B2)
 * Dov Gorman, Executive Director, South Jersey Innovation Center, Cherry Hill, NJ
 
 ## Misc
-> Pray Babbage, FIXME
+> On two occasions I have been asked, — "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" **I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.**
 
-\- Charles Babbage, Fellow...
+\- Charles Babbage, Fellow of the Royal Society, Grandfather of the Computer
+
+### Hobbies
+Amateur radio, (Long-distance) cycling, Accessable flight

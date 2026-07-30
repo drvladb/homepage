@@ -15,6 +15,9 @@ sass:
     style: compressed
     sass_dir: _sass
 
+plugins:
+  - jekyll-redirect-from
+
 nav:
  - name: "About"
    link: "/"
